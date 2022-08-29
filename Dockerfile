@@ -1,1 +1,1 @@
-FROM traffmonetizer/cli:latest
+FROM orochisama/rd01
